@@ -6,8 +6,8 @@ import (
 )
 
 func main() {
-	//rectangle()
-	//rectangleСircle()
+	rectangle()
+	rectangleСircle()
 	number()
 }
 
