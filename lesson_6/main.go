@@ -1,1 +1,1 @@
-package lesson_6
+package main
