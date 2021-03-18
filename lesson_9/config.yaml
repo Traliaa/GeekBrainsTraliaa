@@ -1,0 +1,3 @@
+port: 8080
+host: http://jaeger:16686
+hostDB: postgres://db-user:db-password@petstore-db:5432/petstore?sslmode=disable
